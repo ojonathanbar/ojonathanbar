@@ -1,1 +1,14 @@
-
+ojonathanbar/
+├── public/
+│   ├── images/      # fotos de mini sites, mockups, plaquinhas
+│   └── assets/      # CSS, ícones, JS extras
+├── pages/
+│   └── index.js     # página principal
+├── components/
+│   ├── Hero.js
+│   ├── Services.js
+│   ├── Portfolio.js
+│   ├── Testimonials.js
+│   └── Footer.js
+├── package.json
+└── next.config.js
